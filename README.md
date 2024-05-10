@@ -1,57 +1,44 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=35&duration=4000&pause=1000&color=1122F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+me;I'm+Renato+Graciano+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+
+  <h3 align="center">Python Developer Enthusiastic from Brazil Br</h3>
+
+<br/>
+ 
+ 🔭 I’m currently working on **a web site**
+ 
+ 🌱 I’m currently learning **BackEnd Python and Data Science**
+
+👨‍💻 I'm also **Computer Tech** with experience in **Costumer Service**
+
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Renato! A passionate DevOps student from Brazil.
-
-  - 🌱 I’m currently studying Computer Engineering at UFC
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I was born in 99, currently living in Brazil. I'm Python development student. I'm also a Computer Tech have experience skills such as troubleshooting, communication, customer service and creativity.
-
-  - ⚡ I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_renato_freire/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-renato-graciano-freire-646421255/)
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nato&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Triagem CRUD](https://github.com/dev-nato/Crud-Triagem-Gerardo-Rodrigues)
-- [Python - DIO Changellenges](https://github.com/dev-nato/DIO-Python)
-
-<!-- GIF -->
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
+<div align="center"> 
+  <a href="mailto:freire.eng18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-  
-  <!-- Skills: Libraries -->
+  <a href="https://www.linkedin.com/in/francisco-renato-graciano-freire-646421255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+
+![dev-nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nato&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nato&theme=dark&include_all_commits=true&count_private=false&layout=donut-vertical)](https://github.com/dev-nato/github-readme-stats)
+</div>
