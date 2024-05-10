@@ -41,4 +41,6 @@
 
 ![dev-nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nato&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nato&theme=dark&include_all_commits=true&count_private=false&layout=donut-vertical)](https://github.com/dev-nato/github-readme-stats)
+
+![snake gif](https://github.com/dev-nato/dev-nato/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
