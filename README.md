@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=35&duration=4000&pause=1000&color=1122F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+me;I'm+Renato+Graciano+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=35&duration=4000&pause=1000&color=1122F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Renato+Graciano" alt="Typing SVG" /></a></h1>
 
   <h3 align="center">Python Developer Enthusiastic from Brazil Br</h3>
 
